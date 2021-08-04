@@ -40,8 +40,15 @@ function toConsole(data)
 function bondJSON(data){
 //JSON processing data goes here
 	console.log(data);
+	
+	let myData = JSON.stringify(data,null,4);
 
-	$("#output").text(JSON.stringify(data));
+	myData = '<pre>' + myData + '</pre>';
+
+	$("#output").html(myData);
+	
+	
+	//$("#output").text(JSON.stringify(data));
 
 }
 
