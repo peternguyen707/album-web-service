@@ -112,6 +112,7 @@ function bondTemplate(album){
 				"Genre":"Rap",
 				"Image":"tupac.jpg"
 			  },
+
 */
 
 
