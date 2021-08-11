@@ -40,7 +40,7 @@
 				"Sales":6000000,
 				"Genre":"Rap",
 				"Image":"g-yamazawa.jpg"
-			  },
+			  }
 	]
 }
 
