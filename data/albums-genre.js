@@ -7,7 +7,7 @@
 			"Title":"Take Care",
 			"Sales":9000000,
 			"Genre":"Hip Hop",
-			"Image":"drake.jpg"
+			"Image":"take-care.jpg"
 			},
 			{
 			"Year":2006,
@@ -15,7 +15,7 @@
 			"Title":"Back To Black",
 			"Sales":4000000,
 			"Genre":"Jazz",
-			"Image":"amy-winehouse.jpg"
+			"Image":"back-to-black.jpg"
 			},
 			{
 			"Year":2010,
@@ -23,7 +23,7 @@
 			"Title":"Doo-Wops & Hooligans",
 			"Sales":8000000,
 			"Genre":"Pop",
-			"Image":"bruno-mars.jpg"
+			"Image":"doo-wops-and-hooligans.jpg"
 			},	  
 		  	{
 			"Year":2017,
@@ -31,7 +31,7 @@
 			"Title":"Ego Trip",
 			"Sales":6000000,
 			"Genre":"Rap",
-			"Image":"g-yamazawa.jpg"
+			"Image":"ego-trip.jpg"
 		 	}, 
 		  	{
 				"Year":1996,
@@ -39,7 +39,7 @@
 				"Title":"All Eyes On Me",
 				"Sales":5000000,
 				"Genre":"Rap",
-				"Image":"tupac.jpg"
+				"Image":"all-eyes-on-me.jpg"
 			}
 
 
