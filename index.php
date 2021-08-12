@@ -16,7 +16,7 @@
 		position:absolute;
 		right:10px;
 		top:10px;
-		width:50px;
+		width:10px;
 	}
 
 </style>
